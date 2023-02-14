@@ -34,7 +34,8 @@ After creating the models and routes, run npm run seed to seed data to your data
 
 Sync Sequelize to the Database on Server Start
 
-##SCREENSHOT
+##SCREENSHOT ![image](https://user-images.githubusercontent.com/111549689/218640019-912b815e-4615-4925-af36-26e6e681b340.png)
+
 
 ## License
 
